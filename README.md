@@ -1,14 +1,14 @@
-## Hi, I'm [Rahul](https://telegram/Legends_Nvr_Die) 
+## Hi, I'm [Rahul](https://telegram.me/Legends_Nvr_Die) 
 [![Profile views](https://komarev.com/ghpvc/?username=xr-coder&label=Profile%20views&style=for-the-badge)](https://github.com/xr-coder)
 - I’m Just A Newbie Learning Some Coding Stuffs
-- [Connect with me](https://telegram/Legends_Nvr_Die).
+- [Connect with me](https://telegram.me/Legends_Nvr_Die).
 - Always ready to help!
 ---
 
 ## 🛠️ Languages and tools
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,docker,git,github,linux,heroku,redis,mongodb,html,py,c,js&perline=10)](https://xditya.me)
+[![Languages and Tools](https://skillicons.dev/icons?i=vscode,docker,git,github,linux,heroku,redis,mongodb,html,py,c,js&perline=4)](https://xditya.me)
 
 ---
 
