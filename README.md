@@ -8,7 +8,7 @@
 ## 🛠️ Languages and tools
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,docker,git,github,linux,heroku,redis,mongodb,html,py,c,js&perline=4)](https://xditya.me)
+[Languages and Tools](https://skillicons.dev/icons?i=vscode,docker,git,github,linux,heroku,redis,mongodb,html,py,c,js&perline=4)
 
 ---
 
