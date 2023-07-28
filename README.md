@@ -1,7 +1,7 @@
-## Hi, I'm [Rahul](https://telegram.me/Legends_Nvr_Die) 
+## Hi, I'm [Rahul](https://telegram.me/Mathew_Murdockk) 
 [![Profile views](https://komarev.com/ghpvc/?username=xr-coder&label=Profile%20views&style=for-the-badge)](https://github.com/xr-coder)
 - I’m Just A Newbie Learning Some Coding Stuffs
-- [Connect with me](https://telegram.me/Legends_Nvr_Die).
+- [Connect with me](https://telegram.me/Mathew_Murdockk).
 - Always ready to help!
 ---
 
@@ -13,4 +13,4 @@
 ---
 
 ## 💰 Support Me
-Support Me By Donating By Contacting [Me](https://telegram.me/Legends_Nvr_Die)
+Support Me By Donating [Me](https://murdock.vercel.app)
